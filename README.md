@@ -71,11 +71,11 @@ Automated reporting saving ~8 hours/week of manual work.
 - Engineered NLP pipelines for unstructured academic dataset analysis
 - Built Power BI dashboards for academic committees and grant stakeholders
 
-**Data QA & ML Pipeline Validation Analyst Intern** | Wireless Data Outlet | Aug – Dec 2025
+**Data QA & ML Pipeline Validation Analyst Intern** | Wireless Data Outlet | May 2025– Aug 2025
 - Automated ML pipeline validation with Python — reduced manual QA by ~35%
 - Validated ETL outputs and data transformation logic for ML model training
 
-**Data Analyst Intern** | Greens Technologies | Oct 2023 – May 2024
+**Data Analyst Intern** | Greens Technologies | Aug 2022 – May 2024
 - Built predictive analytics and time-series models on environmental datasets
 - Designed Power BI dashboards for energy KPIs — saved ~8 hrs/week manual work
 

@@ -2,11 +2,16 @@
 
 ### AI Integrated Data Analyst · Published Researcher · Google Collaborator
 
-Data Analyst with an M.S. in Information Systems & Technology
-from University of North Texas (GPA 3.6). Experienced in building deep learning models,
-NLP pipelines, predictive ML systems, and BI dashboards. Published researcher with
-CNN-based cancer detection work and a Wisdom Index architecture co-designed with
-Google's research team.
+AI integrated Data Analyst & Machine learning intern  with an M.S. in Information Systems & Technology 
+from University of North Texas (GPA 3.6). Specialized in deep learning, NLP 
+pipelines, computer vision, predictive analytics, and BI dashboards.
+
+Published researcher with CNN-based medical image classification work and a 
+Wisdom Index AI architecture co-designed with Google's research team. Built 
+ML models achieving 20%+ accuracy improvements and automated pipelines cutting 
+manual effort by 35%
+Open to Data analyst , AI/ML Engineer, Data Scientist, GenAI Analyst, and Predictive 
+Analytics roles.
 
 ---
 

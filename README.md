@@ -10,6 +10,7 @@ Published researcher with CNN-based medical image classification work and a
 Wisdom Index AI architecture co-designed with Google's research team. Built 
 ML models achieving 20%+ accuracy improvements and automated pipelines cutting 
 manual effort by 35%
+
 Open to Data analyst , AI/ML Engineer, Data Scientist, GenAI Analyst, and Predictive 
 Analytics roles.
 

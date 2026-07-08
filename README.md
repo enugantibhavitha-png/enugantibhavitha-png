@@ -1,6 +1,6 @@
 # Hi, I'm Bhavitha Enuganti 👋
 
-### AI Integrated Data Analyst · Published Researcher · Google Collaborator
+### AI & ML engineer and  Data Analyst · Published Researcher · Google Collaborator
 
 AI integrated Data Analyst & Machine learning intern  with an M.S. in Information Systems & Technology 
 from University of North Texas (GPA 3.6). Specialized in deep learning, NLP 

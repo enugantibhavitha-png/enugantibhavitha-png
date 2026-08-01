@@ -72,6 +72,11 @@ Automated reporting saving ~8 hours/week of manual work.
 
 ## 💼 Experience
 
+**Artificial Intelligence Engineer** | BalanX Bio (Health Care – AI) | Jun 2026 – Present
+- Built and integrated a modular, multi-component AI pipeline (perception, reasoning, memory, orchestration) for a privacy-first digital health platform
+- Analyzed multimodal data (text, audio, facial signals) to identify behavioral patterns and inform context-aware product decisions
+- Collaborated with engineering and product stakeholders to validate data quality and deliver reliable, scalable AI features
+
 **Graduate Research Assistant — ML & Analytics** | University of North Texas | Jan 2025 – May 2026
 - Built ML models (classification, regression, ensemble) — 20%+ accuracy improvement
 - Engineered NLP pipelines for unstructured academic dataset analysis

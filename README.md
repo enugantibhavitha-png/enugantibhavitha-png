@@ -86,7 +86,7 @@ Automated reporting saving ~8 hours/week of manual work.
 - Automated ML pipeline validation with Python — reduced manual QA by ~35%
 - Validated ETL outputs and data transformation logic for ML model training
 
-**Data Analyst Intern** | Greens Technologies | Aug 2022 – May 2024
+**Data Analyst Intern** | Greens Technologies | Apr 2022 – May 2024
 - Built predictive analytics and time-series models on environmental datasets
 - Designed Power BI dashboards for energy KPIs — saved ~8 hrs/week manual work
 

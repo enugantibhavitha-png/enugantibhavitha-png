@@ -3,6 +3,10 @@
 Personal portfolio website showcasing my experience as an AI/ML Engineer with 3+ years spanning Generative AI, LLM systems, applied machine learning, and real-time AI product engineering.
 
 🔗 **Live Site:** [enugantibhavitha-png.github.io](https://enugantibhavitha-png.github.io/)
+### 🔎 [FinSight](https://github.com/enugantibhavitha-png/finsight): Agentic RAG Analyst for SEC 10-K Filings · 
+[Live Demo] (https://finsight-bhavitha.vercel.app)
+Tool-using AI agent that answers questions about Apple, Microsoft, and NVIDIA 10-K filings with a cited source for every claim. Prompt-injection guardrails, token/cost tracking, and an eval harness (hit rate, MRR, citation validity) gating CI.
+`TypeScript` `Next.js` `Vercel AI SDK` `OpenAI` `RAG` `GitHub Actions`
 
 ---
 
